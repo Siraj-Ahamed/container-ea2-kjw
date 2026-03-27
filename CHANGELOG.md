@@ -1,3 +1,15 @@
+# v0.0.2 (Fri Mar 27 2026)
+
+#### ⚠️ Pushed to `main`
+
+- test ([@Siraj-Ahamed](https://github.com/Siraj-Ahamed))
+
+#### Authors: 1
+
+- [@Siraj-Ahamed](https://github.com/Siraj-Ahamed)
+
+---
+
 # v0.0.1 (Fri Mar 27 2026)
 
 :tada: This release contains work from a new contributor! :tada:
