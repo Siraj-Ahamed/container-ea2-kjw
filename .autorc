@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "Siraj-Ahamed",
+  "repo": "container-ea2-kjw",
+  "name": "Siraj-Ahamed",
+  "email": "ahamedsiraj770@gmail.com",
+}
